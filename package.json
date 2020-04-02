@@ -1,0 +1,32 @@
+{
+  "name": "com.pangaeavr.text3d",
+  "author": "Richard Huo",
+  "displayName": "PFrame Text3D",
+  "version": "0.0.1-preview.1",
+  "unity": "2019.3",
+  "unityRelease": "0f1",
+  "description": "Font3D and Text3D renderer using Unity DOTS and PFrame",
+  "keywords": [
+    "unity",
+    "ecs",
+    "framework",
+	"PFrame",
+	"Text 3D Renderer"
+  ],
+  "dependencies": {
+    "com.unity.entities": "0.5.1-preview.11",
+    "com.pangaeavr.entities": "0.0.1-preview.1"
+  },
+	"repository": {
+	"type": "git",
+	"url": "https://github.com/pangaeahuo/PFrameEntities.git"
+    },
+	"samples": [
+        {
+            "displayName": "Sample",
+            "description": "Sample",
+            "path": "Samples~/Sample"
+        }
+    ]
+
+}
